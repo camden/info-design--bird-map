@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/info-design--bird-map/static/css/main.1f02dcb5.chunk.css",
+    "main.js": "/info-design--bird-map/static/js/main.28064e67.chunk.js",
+    "main.js.map": "/info-design--bird-map/static/js/main.28064e67.chunk.js.map",
+    "runtime-main.js": "/info-design--bird-map/static/js/runtime-main.d87e4d11.js",
+    "runtime-main.js.map": "/info-design--bird-map/static/js/runtime-main.d87e4d11.js.map",
+    "static/css/2.1871566d.chunk.css": "/info-design--bird-map/static/css/2.1871566d.chunk.css",
+    "static/js/2.b8b5d8a1.chunk.js": "/info-design--bird-map/static/js/2.b8b5d8a1.chunk.js",
+    "static/js/2.b8b5d8a1.chunk.js.map": "/info-design--bird-map/static/js/2.b8b5d8a1.chunk.js.map",
+    "index.html": "/info-design--bird-map/index.html",
+    "precache-manifest.d39b51b9561311907f0147e8ee825f5a.js": "/info-design--bird-map/precache-manifest.d39b51b9561311907f0147e8ee825f5a.js",
+    "service-worker.js": "/info-design--bird-map/service-worker.js",
+    "static/css/2.1871566d.chunk.css.map": "/info-design--bird-map/static/css/2.1871566d.chunk.css.map",
+    "static/css/main.1f02dcb5.chunk.css.map": "/info-design--bird-map/static/css/main.1f02dcb5.chunk.css.map",
+    "static/js/2.b8b5d8a1.chunk.js.LICENSE.txt": "/info-design--bird-map/static/js/2.b8b5d8a1.chunk.js.LICENSE.txt",
+    "static/media/index.css": "/info-design--bird-map/static/media/rubik-latin-900italic.5b173e43.woff",
+    "static/media/world-map2.svg": "/info-design--bird-map/static/media/world-map2.06e1d646.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.d87e4d11.js",
+    "static/css/2.1871566d.chunk.css",
+    "static/js/2.b8b5d8a1.chunk.js",
+    "static/css/main.1f02dcb5.chunk.css",
+    "static/js/main.28064e67.chunk.js"
+  ]
+}
